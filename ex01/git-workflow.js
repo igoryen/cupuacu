@@ -74,8 +74,6 @@ If approved to go to Prod:
 ******* # MERGE THE FEATURE INTO DEVELOP *******
 **********************************************
 
-
-
 	=====================
 		# LOCAL
 	=====================
@@ -122,7 +120,6 @@ If approved to go to Prod:
 		git branch -d feature // delete the Staging 'feature' from Staging as not needed any longer
 		// git branch // to make sure the Staging {feature} is deleted
 		// * develop
-		//   feature
 		//   master
 
 		/* 	
